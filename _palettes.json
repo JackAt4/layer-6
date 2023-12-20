@@ -1,0 +1,28 @@
+{
+    "nextPaletteID": 1,
+    "palettes": {
+        "custom0": {
+            "id": "custom0",
+            "name": "Results Screen Shenanigans",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#FF2121",
+                "#FF93C4",
+                "#FF8135",
+                "#5C406C",
+                "#5C406C",
+                "#5C406C",
+                "#5C406C",
+                "#87F2FF",
+                "#8E2EC4",
+                "#5C406C",
+                "#5C406c",
+                "#E5CDC4",
+                "#5C406C",
+                "#000000"
+            ],
+            "custom": true
+        }
+    }
+}
